@@ -1,0 +1,4 @@
+Americano 3.66 4.11 4.56
+CafeLatte 4.11 4.56 5.00
+CafeMocha 4.55 5.00 5.45
+DecafeCaffeLatte 4.38 4.82
