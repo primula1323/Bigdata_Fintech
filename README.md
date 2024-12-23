@@ -7,7 +7,9 @@
 
 Some of project use other project. 
 
-Database : <https://github.com/kyongs/SNU-BigData-Fintech-S2024/tree/main?tab=readme-ov-file>
+* Database : <https://github.com/kyongs/SNU-BigData-Fintech-S2024/tree/main?tab=readme-ov-file>
+
+* Natural Language Processing : <https://hpshin.github.io/FinTechNLP/>
 
 
 
