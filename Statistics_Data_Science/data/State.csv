@@ -1,0 +1,261 @@
+"StateCodes","State","year","GDP"
+"AL","Alabama","2010",176220.75
+"AK","Alaska","2010",54220
+"AZ","Arizona","2010",247333
+"AR","Arkansas","2010",104928.75
+"CA","California","2010",1960935
+"CO","Colorado","2010",258148.25
+"CT","Connecticut","2010",230357.25
+"DE","Delaware","2010",57673.75
+"FL","Florida","2010",729761.5
+"GA","Georgia","2010",407999
+"HI","Hawaii","2010",67538.5
+"ID","Idaho","2010",55420.25
+"IL","Illinois","2010",653164
+"IN","Indiana","2010",283111.5
+"IA","Iowa","2010",141382.5
+"KS","Kansas","2010",128589
+"KY","Kentucky","2010",165787
+"LA","Louisiana","2010",231371.5
+"ME","Maine","2010",51304.25
+"MD","Maryland","2010",314470.5
+"MA","Massachusetts","2010",399270.25
+"MI","Michigan","2010",387167
+"MN","Minnesota","2010",271481
+"MS","Mississippi","2010",94953.5
+"MO","Missouri","2010",255631.25
+"MT","Montana","2010",37801
+"NE","Nebraska","2010",91498.25
+"NV","Nevada","2010",119771
+"NH","New Hampshire","2010",62678.75
+"NJ","New Jersey","2010",492990
+"NM","New Mexico","2010",86194.75
+"NY","New York","2010",1208079.25
+"NC","North Carolina","2010",417375.5
+"ND","North Dakota","2010",36033
+"OH","Ohio","2010",494736.25
+"OK","Oklahoma","2010",151317.5
+"OR","Oregon","2010",191393
+"PA","Pennsylvania","2010",588275.75
+"RI","Rhode Island","2010",49328.75
+"SC","South Carolina","2010",165237
+"SD","South Dakota","2010",38043.75
+"TN","Tennessee","2010",254343
+"TX","Texas","2010",1251494
+"UT","Utah","2010",119037
+"VT","Vermont","2010",26406.5
+"VA","Virginia","2010",423505.75
+"WA","Washington","2010",362113.5
+"WV","West Virginia","2010",66961
+"WI","Wisconsin","2010",253801
+"WY","Wyoming","2010",39093.25
+"DC","District of Columbia","2010",104044.75
+"US","United States","2010",14859772.5
+"AL","Alabama","2011",181923
+"AK","Alaska","2011",59318.25
+"AZ","Arizona","2011",255620.5
+"AR","Arkansas","2011",109378.25
+"CA","California","2011",2031347.75
+"CO","Colorado","2011",266796.25
+"CT","Connecticut","2011",232270.75
+"DE","Delaware","2011",59763.25
+"FL","Florida","2011",735244.25
+"GA","Georgia","2011",418916.5
+"HI","Hawaii","2011",69689.25
+"ID","Idaho","2011",57081
+"IL","Illinois","2011",679269
+"IN","Indiana","2011",291889.75
+"IA","Iowa","2011",149402
+"KS","Kansas","2011",137654.25
+"KY","Kentucky","2011",172255.25
+"LA","Louisiana","2011",236958.25
+"ME","Maine","2011",51480.75
+"MD","Maryland","2011",323942.5
+"MA","Massachusetts","2011",413672.75
+"MI","Michigan","2011",401359.75
+"MN","Minnesota","2011",284490.75
+"MS","Mississippi","2011",96840.25
+"MO","Missouri","2011",256996
+"MT","Montana","2011",40841.25
+"NE","Nebraska","2011",99050.25
+"NV","Nevada","2011",122744.25
+"NH","New Hampshire","2011",64097.5
+"NJ","New Jersey","2011",497571
+"NM","New Mexico","2011",89543.25
+"NY","New York","2011",1231935.75
+"NC","North Carolina","2011",428730.75
+"ND","North Dakota","2011",42122.75
+"OH","Ohio","2011",521870
+"OK","Oklahoma","2011",165277.5
+"OR","Oregon","2011",200267.5
+"PA","Pennsylvania","2011",607403.25
+"RI","Rhode Island","2011",49931.25
+"SC","South Carolina","2011",171152.75
+"SD","South Dakota","2011",42453.25
+"TN","Tennessee","2011",264957.5
+"TX","Texas","2011",1351048.25
+"UT","Utah","2011",125496.5
+"VT","Vermont","2011",27564.5
+"VA","Virginia","2011",431961.25
+"WA","Washington","2011",372286.75
+"WV","West Virginia","2011",70891.25
+"WI","Wisconsin","2011",263634.75
+"WY","Wyoming","2011",41578
+"DC","District of Columbia","2011",108029
+"US","United States","2011",15406000.25
+"AL","Alabama","2012",187283.25
+"AK","Alaska","2012",61613.5
+"AZ","Arizona","2012",266130.75
+"AR","Arkansas","2012",111541
+"CA","California","2012",2121602.25
+"CO","Colorado","2012",277646.75
+"CT","Connecticut","2012",238322.25
+"DE","Delaware","2012",60774.25
+"FL","Florida","2012",764645.5
+"GA","Georgia","2012",434977.75
+"HI","Hawaii","2012",72100.25
+"ID","Idaho","2012",58544.75
+"IL","Illinois","2012",712604.25
+"IN","Indiana","2012",299906
+"IA","Iowa","2012",159095.75
+"KS","Kansas","2012",141600.25
+"KY","Kentucky","2012",178209.75
+"LA","Louisiana","2012",243308.75
+"ME","Maine","2012",52606
+"MD","Maryland","2012",331423.75
+"MA","Massachusetts","2012",432256.25
+"MI","Michigan","2012",417328.25
+"MN","Minnesota","2012",294728.75
+"MS","Mississippi","2012",102082.75
+"MO","Missouri","2012",265178.25
+"MT","Montana","2012",42137.75
+"NE","Nebraska","2012",102163
+"NV","Nevada","2012",125204.5
+"NH","New Hampshire","2012",66012.75
+"NJ","New Jersey","2012",518422.5
+"NM","New Mexico","2012",90535.25
+"NY","New York","2012",1299813.5
+"NC","North Carolina","2012",439332.5
+"ND","North Dakota","2012",52197.25
+"OH","Ohio","2012",544551.75
+"OK","Oklahoma","2012",173911.5
+"OR","Oregon","2012",196982.25
+"PA","Pennsylvania","2012",626315.5
+"RI","Rhode Island","2012",51491.75
+"SC","South Carolina","2012",175434
+"SD","South Dakota","2012",43258.5
+"TN","Tennessee","2012",280843
+"TX","Texas","2012",1440819
+"UT","Utah","2012",129012.25
+"VT","Vermont","2012",28146
+"VA","Virginia","2012",444527.5
+"WA","Washington","2012",390153.25
+"WV","West Virginia","2012",70914.75
+"WI","Wisconsin","2012",273879.75
+"WY","Wyoming","2012",39909
+"DC","District of Columbia","2012",109760
+"US","United States","2012",16041239.75
+"AL","Alabama","2013",191605.25
+"AK","Alaska","2013",59890.75
+"AZ","Arizona","2013",271072.5
+"AR","Arkansas","2013",116651.5
+"CA","California","2013",2215231.5
+"CO","Colorado","2013",288809
+"CT","Connecticut","2013",242417
+"DE","Delaware","2013",61423.75
+"FL","Florida","2013",797343.5
+"GA","Georgia","2013",450933.5
+"HI","Hawaii","2013",74011.75
+"ID","Idaho","2013",61110.75
+"IL","Illinois","2013",720494.5
+"IN","Indiana","2013",310669.25
+"IA","Iowa","2013",163495.25
+"KS","Kansas","2013",142773.5
+"KY","Kentucky","2013",182696.25
+"LA","Louisiana","2013",238308.25
+"ME","Maine","2013",53299.75
+"MD","Maryland","2013",337422
+"MA","Massachusetts","2013",438640.75
+"MI","Michigan","2013",431111.5
+"MN","Minnesota","2013",307215.75
+"MS","Mississippi","2013",103269.75
+"MO","Missouri","2013",274540.5
+"MT","Montana","2013",43223.25
+"NE","Nebraska","2013",107187.5
+"NV","Nevada","2013",126935.5
+"NH","New Hampshire","2013",67306.5
+"NJ","New Jersey","2013",530091.25
+"NM","New Mexico","2013",91344.5
+"NY","New York","2013",1335063.5
+"NC","North Carolina","2013",454450
+"ND","North Dakota","2013",54441.25
+"OH","Ohio","2013",558969
+"OK","Oklahoma","2013",182447.25
+"OR","Oregon","2013",197732.75
+"PA","Pennsylvania","2013",645382.5
+"RI","Rhode Island","2013",52808.5
+"SC","South Carolina","2013",180855.75
+"SD","South Dakota","2013",44909.5
+"TN","Tennessee","2013",289266.25
+"TX","Texas","2013",1527158.5
+"UT","Utah","2013",134922.25
+"VT","Vermont","2013",28610.75
+"VA","Virginia","2013",451877.5
+"WA","Washington","2013",402789
+"WV","West Virginia","2013",72762.5
+"WI","Wisconsin","2013",281549.25
+"WY","Wyoming","2013",40456.5
+"DC","District of Columbia","2013",111816.5
+"US","United States","2013",16548795.25
+"AL","Alabama","2014",197534.5
+"AK","Alaska","2014",58066.75
+"AZ","Arizona","2014",281558.75
+"AR","Arkansas","2014",121064.75
+"CA","California","2014",2324995.5
+"CO","Colorado","2014",305366.75
+"CT","Connecticut","2014",250763.75
+"DE","Delaware","2014",65484.75
+"FL","Florida","2014",835578.5
+"GA","Georgia","2014",471879.5
+"HI","Hawaii","2014",76424.75
+"ID","Idaho","2014",63364
+"IL","Illinois","2014",742027.75
+"IN","Indiana","2014",324289
+"IA","Iowa","2014",170715
+"KS","Kansas","2014",146562
+"KY","Kentucky","2014",188518
+"LA","Louisiana","2014",245790.75
+"ME","Maine","2014",55029
+"MD","Maryland","2014",350262.5
+"MA","Massachusetts","2014",456273
+"MI","Michigan","2014",447221.25
+"MN","Minnesota","2014",320381.25
+"MS","Mississippi","2014",104937.5
+"MO","Missouri","2014",283280.25
+"MT","Montana","2014",44672.25
+"NE","Nebraska","2014",110663.25
+"NV","Nevada","2014",134052.25
+"NH","New Hampshire","2014",70345.25
+"NJ","New Jersey","2014",545374.25
+"NM","New Mexico","2014",94791.5
+"NY","New York","2014",1385776.25
+"NC","North Carolina","2014",474355.25
+"ND","North Dakota","2014",58230
+"OH","Ohio","2014",588827.75
+"OK","Oklahoma","2014",190170.5
+"OR","Oregon","2014",203328
+"PA","Pennsylvania","2014",672413.25
+"RI","Rhode Island","2014",55098.25
+"SC","South Carolina","2014",189655.5
+"SD","South Dakota","2014",45600
+"TN","Tennessee","2014",300015.25
+"TX","Texas","2014",1601976.75
+"UT","Utah","2014",140565
+"VT","Vermont","2014",29661.75
+"VA","Virginia","2014",462243
+"WA","Washington","2014",422766.5
+"WV","West Virginia","2014",74432.75
+"WI","Wisconsin","2014",293341.25
+"WY","Wyoming","2014",40875.5
+"DC","District of Columbia","2014",116539.25
+"US","United States","2014",17233140

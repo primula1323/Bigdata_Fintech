@@ -1,6 +1,12 @@
 *.pdf
 *.pptx
 *.csv
+!Statistics_Data_Science/data/lasvegas.csv
+!Statistics_Data_Science/data/APT data.csv
+!Statistics_Data_Science/data/cps4.csv
+!Statistics_Data_Science/data/loan.csv
+!Statistics_Data_Science/data/spam.csv
+!Statistics_Data_Science/data/State.csv
 *.sas7bdat
 *.hwp
 *.docx
