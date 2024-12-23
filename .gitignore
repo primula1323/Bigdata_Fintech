@@ -7,7 +7,6 @@
 *.xlsx
 *.png
 *.pkl
-*.xls
 *.tsv
 *.json
 *.zip
